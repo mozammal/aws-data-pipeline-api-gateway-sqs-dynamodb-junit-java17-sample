@@ -39,7 +39,7 @@ aws s3 mb s3://my-bucket-moz-61717
 * Run the following commands to build the artifact
 
 ```bash
-git clone aws-data-pipeline-api-gateway-sqs-dynamodb-junit-java17-sample.git
+git clone https://github.com/mozammal/aws-data-pipeline-api-gateway-sqs-dynamodb-junit-java17-sample.git
 cd aws-data-pipeline-api-gateway-sqs-dynamodb-junit-java17-sample
 mvn clean package
 ```
